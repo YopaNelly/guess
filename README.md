@@ -1,6 +1,6 @@
 # GUESS
 * hello 
-   **This a guessing Game**
+   **This is a guessing Game**
    
 *RULES*
 
